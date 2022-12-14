@@ -1,1 +1,1 @@
-- [] groepje gemaakt
+- [ ] groepje gemaakt
